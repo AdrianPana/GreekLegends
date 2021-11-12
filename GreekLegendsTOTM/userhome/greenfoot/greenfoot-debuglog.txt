@@ -1,0 +1,11 @@
+Greenfoot run started: Fri May 18 00:12:01 EEST 2018
+Greenfoot version: 3.1.0
+Java version 1.8.0_111
+Virtual machine: Java HotSpot(TM) Client VM 25.111-b14 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Users\panaa\Desktop\games\GreekLegendsTOTM\GreekLegendsTOTM\Greenfoot\jdk\jre
+----
+Opening project: C:\Users\panaa\Desktop\games\GreekLegendsTOTM\GreekLegendsTOTM\greenfoot\lib\greenfoot\startupProject
+1526591522616: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
